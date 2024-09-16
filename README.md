@@ -1,4 +1,5 @@
-# SEA <img src="https://i.ibb.co/mTxB4yz/logo.png" height="40" width="40"/><img src="https://i.ibb.co/mDPt5DX/seawolf.png" height="40" width="40"/>
+# <img src="https://i.ibb.co/mTxB4yz/logo.png" height="40" width="40"/> WOLF RUSSIA
+# <img src="https://i.ibb.co/mDPt5DX/seawolf.png" height="40" width="40"/> Syrian Electronic Army
 <p align="center">
 <img src="https://i.ibb.co/mTxB4yz/logo.png"/>
 </p>
