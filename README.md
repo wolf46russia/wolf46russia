@@ -1,7 +1,7 @@
-# <img src="https://i.ibb.co/mTxB4yz/logo.png" height="40" width="40"/> WOLF RUSSIA
+# <img src="https://i.ibb.co/1tXFPdv8/logowolf.png" height="40" width="40"/> WOLF RUSSIA
 
 <p align="center">
-<img src="https://i.ibb.co/mTxB4yz/logo.png"/>
+<img src="https://i.ibb.co/1tXFPdv8/logowolf.png"/>
 </p>
 
 # 🖥 TechBag:
